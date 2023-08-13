@@ -1,0 +1,6 @@
+# Look Here for more examples: https://prettier.io/docs/en/ignore.html
+
+**/.git
+**/.svn
+**/.hg
+**/node_modules
